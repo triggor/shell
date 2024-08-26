@@ -16,7 +16,7 @@ cd dir2
 touch file1.txt file2.txt file3.txt file4.txt file5.txt
 cd ..
 # 4. Append the words "Hello world" to dir2/file3.txt
-echo "Hello world" >> dir2/file3.txt
+echo "hello world" >> dir2/file3.txt
 # 5. Verify that file3.txt contains the words "hello world" by printing the contents of the file in the terminal
 cat dir2/file3.txt
 # 6. Delete file4.txt
